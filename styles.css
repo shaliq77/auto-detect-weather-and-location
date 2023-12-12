@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+h2{
+    font-family: 'Sen', sans-serif;
+    color: black;
+}
+
+body {
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#weather-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
